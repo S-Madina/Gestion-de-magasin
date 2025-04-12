@@ -41,6 +41,6 @@ Cette API permet de gérer les produits et les mouvements de stock (entrées et 
 
 ## Utilisation
 
-1. Enregistrez-vous ou connectez-vous pour obtenir un token
-2. Ajoutez le token dans les headers des requêtes: `Authorization: Bearer VOTRE_TOKEN`
-3. Utilisez les endpoints pour gérer votre stock
+1. S'enregistrer ou se connecter pour obtenir un token
+2. Ajouter le token dans les headers des requêtes: `Authorization: Bearer VOTRE_TOKEN`
+3. Utiliser les endpoints pour gérer votre stock
